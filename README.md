@@ -1,1 +1,1 @@
-This is Trapani ='s first git project!
+This is Trapani's first git project!
